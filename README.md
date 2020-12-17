@@ -1,6 +1,8 @@
 # master_chef
 
 A new Flutter application.
+[![Watch the video]](https://youtu.be/VBDPo7d69BY)
+
 
 ## Getting Started
 
