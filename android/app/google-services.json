@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "681209163094",
+    "firebase_url": "https://master-chef-cooker-acf17-default-rtdb.firebaseio.com",
+    "project_id": "master-chef-cooker-acf17",
+    "storage_bucket": "master-chef-cooker-acf17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681209163094:android:8c36926975f7f802957af7",
+        "android_client_info": {
+          "package_name": "com.dimanar.master_chef"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681209163094-7mv53h2i584auq6495uf39cf8q25su0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiG4TEoamKnEjIsnP75xGgOBZ0FVYevto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681209163094-7mv53h2i584auq6495uf39cf8q25su0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
